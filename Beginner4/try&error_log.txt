@@ -1,0 +1,77 @@
+categorical_feature = ['70', '71', '72', '73', '74', '75', '76', '77', '78', '79', '80', '81', '4', '6', '8', 'displacement', 'horsepower']
+
+3.1874502945501537
+
+categorical_feature = ['model year', 'cylinders', 'displacement', 'horsepower']
+
+2.964096790535435
+
+categorical_feature = ['model year', 'cylinders', 'displacement', 'horsepower', 'origin']
+
+2.6959727645665055
+
+categorical_feature = ['70', '71', '72', '73', '74', '75', '76', '77', '78', '79', '80', '81', '4', '6', '8', 'displacement', 'horsepower', '1','2', '3']
+
+2.829840747093909
+
+categorical_feature = ['model year', 'cylinders', 'displacement', 'acceleration', 'horsepower', 'origin']
+
+2.7199460934906514
+
+categorical_feature = ['model year', 'cylinders', 'displacement', 'weight', 'horsepower', 'origin']
+
+2.6959727645665055
+
+categorical_feature = ['model year', 'cylinders', 'displacement', 'weight', 'horsepower', 'origin', 'acceleration']
+
+2.7199460934906514
+
+categorical_feature = ['model year', 'cylinders', 'horsepower', 'origin']
+
+2.7681232463325376
+
+categorical_feature = ['model year', 'cylinders', 'displacement', 'origin']
+
+2.90623693351953
+
+categorical_feature = ['model year', 'cylinders', 'origin']
+
+3.0450657492850843
+
+categorical_feature = ['cylinders', 'origin', 'displacement', 'horsepower', '70', '71', '72', '73', '74', '75', '76', '77', '78', '79', '80', '81', '82']
+
+mode()
+
+2.829840747093909
+
+median()
+
+2.829400186806273
+
+NaN
+
+2.829840747093909
+
+mean()
+
+2.829840747093909
+
+categorical_feature = ['model year', 'origin', 'displacement', 'horsepower', '4', '6', '8']
+
+2.833832141038076
+
+categorical_feature = ['70', '71', '72', '73', '74', '75', '76', '77', '78', '79', '80', '81', '4', '6', '8', 'displacement over 350', 'horsepower over 275']
+
+4.1783192
+
+categorical_feature = ['model year', 'cylinders', 'displacement', 'horsepower']
+
+3.8693334
+
+categorical_feature = ['model year', 'cylinders', 'displacement', 'horsepower', 'origin']
+
+3.4707225
+
+categorical_feature = ['70', '71', '72', '73', '74', '75', '76', '77', '78', '79', '80', '81', '4', '6', '8', 'displacement', 'horsepower', '1','2', '3']
+
+3.6675829
